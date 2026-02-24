@@ -1,0 +1,16 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# IDE 文件
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# 日志文件
+*.log
